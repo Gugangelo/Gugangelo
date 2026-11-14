@@ -1,147 +1,78 @@
-# 👩🏻‍💻 Gustavo Angelo
+# Gustavo Angelo
 
-**`Desenvolvedor FullStack`**
+Desenvolvedor Full-stack, realizando Pós-Graduação em Especialização em Engenharia de Software com DevOps na UECE, formado em Ciência da Computação pela UECE.
+Há 2 anos construo produtos web e mobile com foco em soluções simples, escaláveis e úteis.
 
-Eae, tudo bem? Sou Gustavo Angelo, desenvolvedor FullStack formado em Ciência da Computação pela UECE. Eu trabalho há 2 anos como desenvolvedor web e mobile, criando produtos digitais que unem lógica, criatividade e impacto, sempre com foco em soluções simples, escaláveis e úteis. <br/>
-Trabalho principalmente como desenvolvedor Full-stack, Atualmente sigo expandindo meus conhecimentos em AWS, automação e conteinerização com Docker.
+Atualmente estudo Segurança da Informação, DevOps e Docker.
 
 <p align="left">
-    <a href="www.linkedin.com/in/gustavo-angelo-cavalcante-da-costa" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://gustavoangelo-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&color=236ae3&logo=rocket&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://github.com/Gugangelo?tab=repositories">
-        <img 
-            alt="Meus repositórios" 
-            title="Repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&color=F40&logoColor=white&logo=repo"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/gustavo-angelo-cavalcante-da-costa">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"
+    />
+  </a>
+  <a href="https://gustavoangelo-portfolio.vercel.app/">
+    <img
+      alt="Portfólio"
+      src="https://img.shields.io/badge/Portf%C3%B3lio-f97316?style=for-the-badge"
+    />
+  </a>
+  <a href="https://github.com/Gugangelo?tab=repositories">
+    <img
+      alt="Repositórios"
+      src="https://img.shields.io/badge/Reposit%C3%B3rios-24292f?style=for-the-badge"
+    />
+  </a>
 </p>
-
-<!-- ---
-
-### 🚀 Projetos em Destaque
-Implementar depois -->
 
 ---
 
-### 🤖 Front-end
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<br/>
+### Stack
 
-### 🤖 Back-end
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" 
+<img
+  alt="Stack"
+  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,postgres,mysql,docker,aws&perline=11"
 />
-<img 
-    align="left" 
-    alt="Node"
-    title="Node" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
-<br/>
-
-### 🤖 Sistemas de Gerenciamento de Banco de Dados
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
-/>
-
-<br/>
-<br/>
 
 ---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gugangelo&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
-  />
+### Projetos
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugangelo&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<!-- Adicionar novos projetos nesta tabela -->
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [Promptopia](https://github.com/Gugangelo/promptopia) | Projeto em Next.js para estudar o framework | Next.js, JavaScript |
+
+---
+
+### Contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gugangelo/Gugangelo/output/github-snake-dark.svg"
   />
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gugangelo/Gugangelo/output/github-snake.svg"
+  />
+  <img
+    alt="Gráfico de contribuições animado"
+    src="https://raw.githubusercontent.com/Gugangelo/Gugangelo/output/github-snake.svg"
+  />
+</picture>
+
+<!-- ### Estatísticas
+
+<img
+  alt="Estatísticas do GitHub"
+  height="180"
+  src="https://raw.githubusercontent.com/Gugangelo/Gugangelo/main/profile-summary-card-output/github_dark/3-stats.svg"
+/>
+<img
+  alt="Linguagens mais usadas nos commits"
+  height="180"
+  src="https://raw.githubusercontent.com/Gugangelo/Gugangelo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+/> -->
