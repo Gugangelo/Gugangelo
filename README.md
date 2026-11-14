@@ -43,7 +43,7 @@ Atualmente estudo Segurança da Informação, DevOps e Docker.
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Promptopia](https://github.com/Gugangelo/promptopia) | Projeto em Next.js para estudar o framework | Next.js, JavaScript |
+| [Promptopia](https://github.com/Gugangelo/promptopia) | Projeto em Next.js, site em que os usuários criam suas contas e compartilham prompts de IA, assim como podem pesquisar por prompts de IA que tenham necessidade. | Next.js, JavaScript, Tailwind, MongoDB |
 
 ---
 
