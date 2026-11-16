@@ -32,7 +32,7 @@ Atualmente estudo Segurança da Informação, DevOps e Docker.
 
 <img
   alt="Stack"
-  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,postgres,mysql,docker,aws&perline=11"
+  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,postgres,mysql,docker,mongodb,linux,aws&perline=7"
 />
 
 ---
@@ -44,6 +44,7 @@ Atualmente estudo Segurança da Informação, DevOps e Docker.
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [Promptopia](https://github.com/Gugangelo/promptopia) | Projeto em Next.js, site em que os usuários criam suas contas e compartilham prompts de IA, assim como podem pesquisar por prompts de IA que tenham necessidade. | Next.js, JavaScript, Tailwind, MongoDB |
+| [Simulando Malwares](https://github.com/Gugangelo/Simulando-Malwares-com-Python-em-um-Ambiente-Controlado) | Este projeto tem como objetivo demonstrar, em ambiente 100% controlado , o funcionamento básico de dois tipos de malware amplamente conhecidos: Ransomware e Keylogger. | Python, Kali Linux, Segurança da Informação |
 
 ---
 
